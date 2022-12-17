@@ -1,0 +1,23 @@
+li{
+    list-style: none;
+    padding-left: 20px;
+}
+
+a{
+    text-decoration: none;
+    border: black;
+}
+
+
+ul{
+    display: flex;
+    justify-content: center;
+}
+
+th{
+    background-color: mistyrose;
+}
+
+.navigate{
+    border-style:groove;
+}
