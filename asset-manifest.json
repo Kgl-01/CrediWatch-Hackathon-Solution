@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CrediWatch-Hackathon-Solution/static/css/main.89f95260.css",
+    "main.js": "/CrediWatch-Hackathon-Solution/static/js/main.281bd27f.js",
+    "index.html": "/CrediWatch-Hackathon-Solution/index.html",
+    "main.89f95260.css.map": "/CrediWatch-Hackathon-Solution/static/css/main.89f95260.css.map",
+    "main.281bd27f.js.map": "/CrediWatch-Hackathon-Solution/static/js/main.281bd27f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89f95260.css",
+    "static/js/main.281bd27f.js"
+  ]
+}
